@@ -17,3 +17,14 @@ Planned:
 - Solar heating
 - Temperature-time plots
 - Radiative cooling
+
+## DevLog
+
+### 05 / 07 / 2026
+- Repository created
+- Wrote a README.md
+
+### Next
+- Set up project structure
+- Define constants
+- Set up first energy balance equation
