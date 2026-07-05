@@ -23,8 +23,12 @@ Planned:
 ### 05 / 07 / 2026
 - Repository created
 - Wrote a README.md
-
-### Next
 - Set up project structure
 - Define constants
+- Set up an equation for how much thermal power is radiated
+- Set up Euler's
+- Set up graphing
+
+### Next
 - Set up first energy balance equation
+- Replace Euler's in sim.py with solve.ivp
